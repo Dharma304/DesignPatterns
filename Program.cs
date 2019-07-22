@@ -6,7 +6,7 @@ namespace DesignPattern
     {
         static void Main(string[] args)
         {
-            strategy obj=new strategy();
+            var obj=new strategy();
             obj.Show();
         }
     }
