@@ -6,8 +6,11 @@ namespace DesignPattern
     {
         static void Main(string[] args)
         {
-            var obj=new strategy();
-            obj.Show();
+            if (SingleTon.GetSingleTon() == SingleTon.GetSingleTon())
+            {
+                System.Console.WriteLine("Same instance");
+            }
+           
         }
     }
 }
