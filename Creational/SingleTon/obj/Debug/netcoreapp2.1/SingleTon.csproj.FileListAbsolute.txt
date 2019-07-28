@@ -1,0 +1,11 @@
+D:\DesignPattern\Creational\SingleTon\bin\Debug\netcoreapp2.1\SingleTon.deps.json
+D:\DesignPattern\Creational\SingleTon\bin\Debug\netcoreapp2.1\SingleTon.runtimeconfig.json
+D:\DesignPattern\Creational\SingleTon\bin\Debug\netcoreapp2.1\SingleTon.runtimeconfig.dev.json
+D:\DesignPattern\Creational\SingleTon\bin\Debug\netcoreapp2.1\SingleTon.dll
+D:\DesignPattern\Creational\SingleTon\bin\Debug\netcoreapp2.1\SingleTon.pdb
+D:\DesignPattern\Creational\SingleTon\obj\Debug\netcoreapp2.1\SingleTon.csprojAssemblyReference.cache
+D:\DesignPattern\Creational\SingleTon\obj\Debug\netcoreapp2.1\SingleTon.csproj.CoreCompileInputs.cache
+D:\DesignPattern\Creational\SingleTon\obj\Debug\netcoreapp2.1\SingleTon.AssemblyInfoInputs.cache
+D:\DesignPattern\Creational\SingleTon\obj\Debug\netcoreapp2.1\SingleTon.AssemblyInfo.cs
+D:\DesignPattern\Creational\SingleTon\obj\Debug\netcoreapp2.1\SingleTon.dll
+D:\DesignPattern\Creational\SingleTon\obj\Debug\netcoreapp2.1\SingleTon.pdb
