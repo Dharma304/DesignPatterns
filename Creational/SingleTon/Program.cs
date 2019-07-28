@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace DesignPattern.Creational.SingleTonPattern
+namespace DesignPattern.Creational.SingleTon
 {
     class Program
     {
