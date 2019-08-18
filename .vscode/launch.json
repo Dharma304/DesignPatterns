@@ -10,9 +10,9 @@
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
-            "program": "${workspaceFolder}/Creational/SingleTon/bin/Debug/netcoreapp2.1/SingleTon.dll",
+            "program": "${workspaceFolder}/Creational/AbstractFactory/bin/Debug/netcoreapp2.1/AbstractFactory.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/Creational/SingleTon",
+            "cwd": "${workspaceFolder}/Creational/AbstractFactory",
             "console": "internalConsole",
             "stopAtEntry": false
         },
